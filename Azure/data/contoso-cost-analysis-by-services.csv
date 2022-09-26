@@ -1,0 +1,31 @@
+ServiceName,PublisherType,Cost,CostUSD,Currency
+Virtual Machines,Azure,431.0016233,431.0016233,USD
+Application Gateway,Azure,197.7264,197.7264,USD
+SQL Managed Instance,Azure,196.787254,196.787254,USD
+Backup,Azure,120.8024903,120.8024903,USD
+Log Analytics,Azure,120.58862,120.58862,USD
+Storage,Azure,110.5699259,110.5699259,USD
+Azure Bastion,Azure,62.42406191,62.42406191,USD
+Azure Defender,Azure,62.2366108,62.2366108,USD
+ExpressRoute,Azure,54.4464,54.4464,USD
+Azure App Service,Azure,48.7749,48.7749,USD
+SQL Database,Azure,46.12713482,46.12713482,USD
+Security Center,Azure,29.9136,29.9136,USD
+Azure Site Recovery,Azure,25.27620968,25.27620968,USD
+Virtual Network,Azure,24.83333514,24.83333514,USD
+Load Balancer,Azure,16.89608192,16.89608192,USD
+Container Registry,Azure,10.42904043,10.42904043,USD
+Advanced Data Security,Azure,8.024596774,8.024596774,USD
+Advanced Threat Protection,Azure,2.864577152,2.864577152,USD
+Network Watcher,Azure,2.557270772,2.557270772,USD
+Bandwidth,Azure,1.626389014,1.626389014,USD
+Azure Monitor,Azure,1.592699301,1.592699301,USD
+Automation,Azure,1.460613,1.460613,USD
+Functions,Azure,1.1914626,1.1914626,USD
+Service Bus,Azure,0.62190686,0.62190686,USD
+Logic Apps,Azure,0.192777104,0.192777104,USD
+Traffic Manager,Azure,0.158892694,0.158892694,USD
+Key Vault,Azure,0.01164687,0.01164687,USD
+Azure Grafana Service,Azure,0,0,USD
+Insight and Analytics,Azure,0,0,USD
+Virtual Machines Licenses,Azure,0,0,USD
